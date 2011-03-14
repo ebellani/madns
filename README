@@ -1,1 +1,6 @@
 madns
+
+Improvements over TADNS [1]. The goal will be to unit test the project and incrementally
+add further (tested) functionality.
+
+[1] http://adns.sourceforge.net/
